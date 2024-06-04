@@ -64,6 +64,8 @@ flutter:
     - assets/sofa-1 (3).png
     - assets/sofa-1 (4).png
     - assets/sofa-1 (5).png
+    - assets/table.png
+    - assets/light.png
 
   # To add assets to your application, add an assets section, like this:
   # assets:

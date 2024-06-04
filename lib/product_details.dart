@@ -107,7 +107,7 @@ class _ProductPageState extends State<ProductPage> {
                     shape: BoxShape.circle,
                     color: _getColorFromIndex(index),
                     border: _selectedColorIndex == index
-                        ? Border.all(color: Color(0xffD2D5DC), width: 2)
+                        ? Border.all(color: const Color(0xffD2D5DC), width: 2)
                         : null,
                   ),
                   width: 24,
